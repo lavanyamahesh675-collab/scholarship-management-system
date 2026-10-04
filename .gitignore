@@ -1,0 +1,6 @@
+cloudflared.exe
+instance/
+__pycache__/
+*.db
+*.pyc
+.DS_Store
