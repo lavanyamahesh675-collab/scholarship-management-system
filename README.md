@@ -33,4 +33,4 @@ Real-time statistics & scholarship metrics powered by Flask & SQLite/MySQL.
    python app.py
    ```
 
-4. Open "http://benevolent-dragon-574cef.netlify.app" in your web browser and password for this web browser is "My-Drop-Site".
+4. Open "https://barnes-arrival-concord-americans.trycloudflare.com/" in your web browser.
